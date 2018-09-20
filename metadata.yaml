@@ -1,0 +1,37 @@
+_repo: Brotherly-House_53402
+_version: 0.0.1
+alternative_title: 'Brotherly House: A Christmas Story'
+contributor:
+  illustrator:
+    agent_name: Fogarty, Thomas
+    alias: Fogarty, Thomas J.
+    birthdate: 1873
+    deathdate: 1938
+    gutenberg_agent_id: '33090'
+    url: http://www.gutenberg.org/2009/agents/33090
+creator:
+  author:
+    agent_name: Richmond, Grace S. (Grace Smith)
+    alias: Smith, Grace
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '2216'
+    url: http://www.gutenberg.org/2009/agents/2216
+description: ''
+gutenberg_issued: '2016-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Interpersonal relations -- Fiction'
+- GITenberg
+title: Brotherly House
+url: http://www.gutenberg.org/ebooks/53402
